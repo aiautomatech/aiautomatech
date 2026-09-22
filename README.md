@@ -1,6 +1,6 @@
 # Automatech-AI
 
-AI development agent for [Automatech](https://github.com/atechlive).
+AI development agent for [Automatech](https://github.com/automatechai).
 
 Automatech-AI is an AI-powered coding contributor used to assist with software development, testing, debugging, documentation, code reviews, and repository maintenance.
 
@@ -59,7 +59,7 @@ Automatech builds software, AI projects, developer tools, educational technology
 Learn more:
 
 * https://automatech.live
-* https://github.com/atechlive
+* https://github.com/automatechai
 
 ## Human + AI Development
 
